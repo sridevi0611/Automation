@@ -1,0 +1,23 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "This repository contains automated tests for the iBinder application using Playwright.",
+  "main": "test_ibinder_login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sridevi0611/Automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sridevi0611/Automation/issues"
+  },
+  "homepage": "https://github.com/sridevi0611/Automation#readme",
+  "dependencies": {
+    "playwright": "^1.51.1"
+  }
+}
